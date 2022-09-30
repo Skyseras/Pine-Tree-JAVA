@@ -6,8 +6,8 @@ Le programme redemandera ces données à l'utilisateur tant qu'elles ne sont pas
 Exemple d'exécution: 
 Quel symbole voulez-vous pour le triangle ? * 
 Combien de lignes (de 8 a 35)? 10
-                  * 
-                 * *
+~~~~~~~~~~~~~~~~~~*
+~~~~~~~~~~~~~~~~~* *
                 * * *
                * * * *
               * * * * *
